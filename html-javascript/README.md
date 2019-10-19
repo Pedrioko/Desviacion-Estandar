@@ -6,8 +6,7 @@ HTML 5
 Javascript
 
 
-
-Librerías:
+## Librerías:
 
 Bootstrap 4 (MIT)
 
