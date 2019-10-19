@@ -1,4 +1,4 @@
-# Desviación-Estandar
+# Desviación-Estándar
 Implementación con:
 
 Java
