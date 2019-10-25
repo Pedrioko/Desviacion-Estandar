@@ -1,8 +1,9 @@
 var datos = [];
 
 
-$("#agregar").click(() => {
 
+$("form").submit((event) => {
+    event.preventDefault();
     var dato = {
         id: "",
         valor: 0

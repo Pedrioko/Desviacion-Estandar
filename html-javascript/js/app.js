@@ -23,8 +23,8 @@ function average(data) {
     return avg;
 }
 
-$("#agregar").click(() => {
-
+$("form").submit((event) => {
+    event.preventDefault();
     var dato = {
         id: "",
         valor: 0
